@@ -1,0 +1,48 @@
+/**
+ * Do not edit directly, this file was auto-generated.
+ * 
+ * Design Tokens - Typography
+ * 
+ * Usage:
+ * font-family: var(--font-family-inter);
+ * font-size: var(--font-size-lg);
+ * font-weight: var(--font-weight-bold);
+ */
+
+:root {
+  /* Font families */
+  --font-family-display: Bricolage Grotesque;
+  --font-family-text: Inter;
+
+  /* Font sizes */
+  --font-size-xs: 12px;
+  --font-size-sm: 14px;
+  --font-size-md: 16px;
+  --font-size-lg: 24px;
+  --font-size-xl: 32px;
+  --font-size-2xl: 40px;
+
+  /* Font weights */
+  --font-weight-regular: 250;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 750;
+  --font-weight-bold: 1000;
+
+  /* Line heights */
+  --line-height-text-xs: 18px;
+  --line-height-text-sm: 20px;
+  --line-height-text-md: 24px;
+  --line-height-text-lg: 28px;
+  --line-height-text-xl: 30px;
+  --line-height-display-xs: 32px;
+  --line-height-display-sm: 38px;
+  --line-height-display-md: 44px;
+  --line-height-display-lg: 60px;
+  --line-height-display-xl: 72px;
+  --line-height-display-2xl: 90px;
+
+  /* Letter spacing */
+  --letter-spacing-0: -0.02em;
+  --letter-spacing-1: 0.00em;
+
+}
