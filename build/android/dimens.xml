@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly, this file was auto-generated.
+  
+  Design Tokens - Dimensions
+  Spacing, border radius, sizing values
+  
+  Usage:
+  <View
+      android:padding="@dimen/spacing_4"
+      android:layout_width="@dimen/sizing_48" />
+-->
+<resources>
+    <!-- Spacing -->
+    <!-- desc -->
+    <dimen name="spacing_0">0dp</dimen>
+    <dimen name="spacing_1">4dp</dimen>
+    <dimen name="spacing_2">8dp</dimen>
+    <dimen name="spacing_3">12dp</dimen>
+    <dimen name="spacing_4">16dp</dimen>
+    <dimen name="spacing_5">20dp</dimen>
+    <dimen name="spacing_6">24dp</dimen>
+    <dimen name="spacing_8">32dp</dimen>
+    <dimen name="spacing_10">40dp</dimen>
+    <dimen name="spacing_12">48dp</dimen>
+    <dimen name="spacing_16">64dp</dimen>
+    <dimen name="spacing_20">80dp</dimen>
+    <dimen name="spacing_24">96dp</dimen>
+    <dimen name="spacing_32">128dp</dimen>
+    <dimen name="spacing_40">160dp</dimen>
+    <dimen name="spacing_0_5">2dp</dimen>
+    <dimen name="spacing_1_5">6dp</dimen>
+
+    <!-- Border radius -->
+    <dimen name="border_radius_none">0dp</dimen>
+    <dimen name="border_radius_xxs">2dp</dimen>
+    <dimen name="border_radius_xs">4dp</dimen>
+    <dimen name="border_radius_sm">6dp</dimen>
+    <dimen name="border_radius_md">8dp</dimen>
+    <dimen name="border_radius_xl">12dp</dimen>
+    <dimen name="border_radius_2xl">16dp</dimen>
+    <dimen name="border_radius_4xl">24dp</dimen>
+    <dimen name="border_radius_full">9999dp</dimen>
+    <dimen name="border_radius_lg">10dp</dimen>
+    <dimen name="border_radius_3xl">20dp</dimen>
+
+    <!-- Sizing -->
+    <dimen name="sizing_48">192dp</dimen>
+    <dimen name="sizing_56">224dp</dimen>
+    <dimen name="sizing_64">256dp</dimen>
+    <dimen name="sizing_80">320dp</dimen>
+    <dimen name="sizing_96">384dp</dimen>
+    <dimen name="sizing_120">480dp</dimen>
+    <dimen name="sizing_140">560dp</dimen>
+    <dimen name="sizing_160">640dp</dimen>
+    <dimen name="sizing_180">720dp</dimen>
+    <dimen name="sizing_192">768dp</dimen>
+    <dimen name="sizing_256">1024dp</dimen>
+    <dimen name="sizing_320">1280dp</dimen>
+    <dimen name="sizing_360">1440dp</dimen>
+    <dimen name="sizing_400">1600dp</dimen>
+    <dimen name="sizing_480">1920dp</dimen>
+
+    <!-- Other dimensions -->
+    <dimen name="spacing_none">0dp</dimen>
+    <dimen name="spacing_xxs">2dp</dimen>
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_md">8dp</dimen>
+    <dimen name="spacing_lg">12dp</dimen>
+    <dimen name="spacing_xl">16dp</dimen>
+    <dimen name="spacing_2xl">20dp</dimen>
+    <dimen name="spacing_3xl">24dp</dimen>
+    <dimen name="spacing_4xl">32dp</dimen>
+    <dimen name="spacing_6xl">48dp</dimen>
+    <dimen name="spacing_7xl">64dp</dimen>
+    <dimen name="spacing_8xl">80dp</dimen>
+    <dimen name="spacing_9xl">96dp</dimen>
+    <dimen name="spacing_10xl">128dp</dimen>
+    <dimen name="spacing_11xl">160dp</dimen>
+    <dimen name="spacing_sm">6dp</dimen>
+    <dimen name="spacing_5xl">40dp</dimen>
+    <dimen name="width_xxs">320dp</dimen>
+    <dimen name="width_sm">480dp</dimen>
+    <dimen name="width_lg">640dp</dimen>
+    <dimen name="width_xl">768dp</dimen>
+    <dimen name="width_2xl">1024dp</dimen>
+    <dimen name="width_3xl">1280dp</dimen>
+    <dimen name="width_4xl">1440dp</dimen>
+    <dimen name="width_5xl">1600dp</dimen>
+    <dimen name="width_6xl">1920dp</dimen>
+    <dimen name="width_md">560dp</dimen>
+    <dimen name="width_paragraph_max_width">720dp</dimen>
+    <dimen name="width_xs">384dp</dimen>
+    <dimen name="container_max_width_desktop">1280dp</dimen>
+    <dimen name="container_padding_desktop">32dp</dimen>
+    <dimen name="container_padding_mobile">16dp</dimen>
+
+</resources>

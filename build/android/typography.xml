@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly, this file was auto-generated.
+  
+  Design Tokens - Typography
+  Font families, sizes, weights, line heights
+  
+  Usage:
+  <TextView
+      android:fontFamily="@string/font_family_text"
+      android:textSize="@dimen/font_size_lg"
+      android:lineHeight="@dimen/line_height_text_lg" />
+-->
+<resources>
+    <!-- Font families -->
+    <string name="font_family_display">Bricolage Grotesque</string>
+    <string name="font_family_text">Inter</string>
+
+    <!-- Font sizes -->
+    <dimen name="font_size_xs">12sp</dimen>
+    <dimen name="font_size_sm">14sp</dimen>
+    <dimen name="font_size_md">16sp</dimen>
+    <dimen name="font_size_lg">24sp</dimen>
+    <dimen name="font_size_xl">32sp</dimen>
+    <dimen name="font_size_2xl">40sp</dimen>
+
+    <!-- Font weights -->
+    <integer name="font_weight_regular">200</integer>
+    <integer name="font_weight_medium">500</integer>
+    <integer name="font_weight_semibold">700</integer>
+    <integer name="font_weight_bold">900</integer>
+
+    <!-- Line heights -->
+    <dimen name="line_height_text_xs">18dp</dimen>
+    <dimen name="line_height_text_sm">20dp</dimen>
+    <dimen name="line_height_text_md">24dp</dimen>
+    <dimen name="line_height_text_lg">28dp</dimen>
+    <dimen name="line_height_text_xl">30dp</dimen>
+    <dimen name="line_height_display_xs">32dp</dimen>
+    <dimen name="line_height_display_sm">38dp</dimen>
+    <dimen name="line_height_display_md">44dp</dimen>
+    <dimen name="line_height_display_lg">60dp</dimen>
+    <dimen name="line_height_display_xl">72dp</dimen>
+    <dimen name="line_height_display_2xl">90dp</dimen>
+
+    <!-- Letter spacing (em) -->
+    <item name="letter_spacing_0" type="dimen" format="float">-0.02</item>
+    <item name="letter_spacing_1" type="dimen" format="float">0.00</item>
+
+</resources>

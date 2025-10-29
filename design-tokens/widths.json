@@ -1,0 +1,52 @@
+{
+  "width": {
+    "xxs": {
+      "value": "{sizing.80}",
+      "type": "number"
+    },
+    "sm": {
+      "value": "{sizing.120}",
+      "type": "number"
+    },
+    "lg": {
+      "value": "{sizing.160}",
+      "type": "number"
+    },
+    "xl": {
+      "value": "{sizing.192}",
+      "type": "number"
+    },
+    "2xl": {
+      "value": "{sizing.256}",
+      "type": "number"
+    },
+    "3xl": {
+      "value": "{sizing.320}",
+      "type": "number"
+    },
+    "4xl": {
+      "value": "{sizing.360}",
+      "type": "number"
+    },
+    "5xl": {
+      "value": "{sizing.400}",
+      "type": "number"
+    },
+    "6xl": {
+      "value": "{sizing.480}",
+      "type": "number"
+    },
+    "md": {
+      "value": "{sizing.140}",
+      "type": "number"
+    },
+    "paragraphMaxWidth": {
+      "value": "{sizing.180}",
+      "type": "number"
+    },
+    "xs": {
+      "value": "{sizing.96}",
+      "type": "number"
+    }
+  }
+}
