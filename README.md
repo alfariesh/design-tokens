@@ -3,6 +3,7 @@
 > Build design tokens dari JSON source ke Flutter, Jetpack Compose, CSS, Android XML, dan iOS Swift dengan Style Dictionary v5.1.1
 
 [![Build & Deploy](https://github.com/alfariesh/design-tokens/actions/workflows/build.yml/badge.svg)](https://github.com/alfariesh/design-tokens/actions/workflows/build.yml)
+[![Version](https://img.shields.io/badge/version-v1.0.0--alpha.1-orange)](https://github.com/alfariesh/design-tokens/releases)
 [![Style Dictionary](https://img.shields.io/badge/Style%20Dictionary-v5.1.1-blueviolet)](https://github.com/amzn/style-dictionary)
 [![Flutter](https://img.shields.io/badge/Flutter-Ready-02569B?logo=flutter)](docs/flutter/)
 [![Jetpack Compose](https://img.shields.io/badge/Compose-Ready-4285F4?logo=jetpack-compose)](docs/compose/)
@@ -78,6 +79,32 @@ curl -o src/styles/tokens.css https://alfariesh.github.io/design-tokens/css/colo
 <link rel="stylesheet" href="https://alfariesh.github.io/design-tokens/css/typography.css">
 <link rel="stylesheet" href="https://alfariesh.github.io/design-tokens/css/dimensions.css">
 ```
+
+### Versioning
+
+Design tokens menggunakan [Semantic Versioning](https://semver.org/):
+
+**Current Version:** `v1.0.0-alpha.1`
+
+**Version Format:**
+- `alpha`: Early preview, API may change
+- `beta`: Feature complete, testing phase
+- `rc`: Release candidate, production ready
+- `stable`: Production release (1.0.0, 1.1.0, etc)
+
+**Download Specific Version:**
+
+Setiap release tersimpan di GitHub Releases dengan zip file yang berisi semua token files:
+
+```bash
+# Download dari GitHub Releases
+https://github.com/alfariesh/design-tokens/releases/tag/v1.0.0-alpha.1
+
+# Latest version (always updated)
+https://alfariesh.github.io/design-tokens/flutter/colors.dart
+```
+
+**Version History:** See [CHANGELOG.md](CHANGELOG.md) untuk detail lengkap setiap release.
 
 ---
 
