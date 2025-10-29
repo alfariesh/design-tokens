@@ -31,9 +31,9 @@ object Typography {
     val fontSizeXs: TextUnit = 12.sp
     val fontSizeSm: TextUnit = 14.sp
     val fontSizeMd: TextUnit = 16.sp
-    val fontSizeLg: TextUnit = 24.sp
-    val fontSizeXl: TextUnit = 32.sp
-    val fontSize2xl: TextUnit = 40.sp
+    val fontSizeLg: TextUnit = 18.sp
+    val fontSizeXl: TextUnit = 20.sp
+    val fontSize2xl: TextUnit = 28.sp
 
     // Font weights
     val fontWeightRegular: FontWeight = FontWeight.W200

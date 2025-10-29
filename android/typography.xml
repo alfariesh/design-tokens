@@ -21,9 +21,9 @@
     <dimen name="font_size_xs">12sp</dimen>
     <dimen name="font_size_sm">14sp</dimen>
     <dimen name="font_size_md">16sp</dimen>
-    <dimen name="font_size_lg">24sp</dimen>
-    <dimen name="font_size_xl">32sp</dimen>
-    <dimen name="font_size_2xl">40sp</dimen>
+    <dimen name="font_size_lg">18sp</dimen>
+    <dimen name="font_size_xl">20sp</dimen>
+    <dimen name="font_size_2xl">28sp</dimen>
 
     <!-- Font weights -->
     <integer name="font_weight_regular">200</integer>

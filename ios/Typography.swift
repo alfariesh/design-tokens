@@ -22,9 +22,9 @@ public struct Typography {
     public static let fontSizeXs: CGFloat = 12
     public static let fontSizeSm: CGFloat = 14
     public static let fontSizeMd: CGFloat = 16
-    public static let fontSizeLg: CGFloat = 24
-    public static let fontSizeXl: CGFloat = 32
-    public static let fontSize2xl: CGFloat = 40
+    public static let fontSizeLg: CGFloat = 18
+    public static let fontSizeXl: CGFloat = 20
+    public static let fontSize2xl: CGFloat = 28
 
     // MARK: - Font Weights
     

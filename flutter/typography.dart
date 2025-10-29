@@ -14,97 +14,97 @@ class Typography {
 
   static const TextStyle typographyDisplay2xlRegular = TextStyle(
       fontFamily: 'Bricolage Grotesque',
-      fontSize: 40,
+      fontSize: 28,
       fontWeight: FontWeight.w200,
-      height: 2.25,
+      height: 3.21,
       letterSpacing: -0.02,
     );
 
   static const TextStyle typographyDisplay2xlMedium = TextStyle(
       fontFamily: 'Bricolage Grotesque',
-      fontSize: 40,
+      fontSize: 28,
       fontWeight: FontWeight.w500,
-      height: 2.25,
+      height: 3.21,
       letterSpacing: -0.02,
     );
 
   static const TextStyle typographyDisplay2xlSemibold = TextStyle(
       fontFamily: 'Bricolage Grotesque',
-      fontSize: 40,
+      fontSize: 28,
       fontWeight: FontWeight.w700,
-      height: 2.25,
+      height: 3.21,
       letterSpacing: -0.02,
     );
 
   static const TextStyle typographyDisplay2xlBold = TextStyle(
       fontFamily: 'Bricolage Grotesque',
-      fontSize: 40,
+      fontSize: 28,
       fontWeight: FontWeight.w900,
-      height: 2.25,
+      height: 3.21,
       letterSpacing: -0.02,
     );
 
   static const TextStyle typographyDisplayXlRegular = TextStyle(
       fontFamily: 'Bricolage Grotesque',
-      fontSize: 32,
+      fontSize: 20,
       fontWeight: FontWeight.w200,
-      height: 2.25,
+      height: 3.60,
       letterSpacing: -0.02,
     );
 
   static const TextStyle typographyDisplayXlMedium = TextStyle(
       fontFamily: 'Bricolage Grotesque',
-      fontSize: 32,
+      fontSize: 20,
       fontWeight: FontWeight.w500,
-      height: 2.25,
+      height: 3.60,
       letterSpacing: -0.02,
     );
 
   static const TextStyle typographyDisplayXlSemibold = TextStyle(
       fontFamily: 'Bricolage Grotesque',
-      fontSize: 32,
+      fontSize: 20,
       fontWeight: FontWeight.w700,
-      height: 2.25,
+      height: 3.60,
       letterSpacing: -0.02,
     );
 
   static const TextStyle typographyDisplayXlBold = TextStyle(
       fontFamily: 'Bricolage Grotesque',
-      fontSize: 32,
+      fontSize: 20,
       fontWeight: FontWeight.w900,
-      height: 2.25,
+      height: 3.60,
       letterSpacing: -0.02,
     );
 
   static const TextStyle typographyDisplayLgRegular = TextStyle(
       fontFamily: 'Bricolage Grotesque',
-      fontSize: 24,
+      fontSize: 18,
       fontWeight: FontWeight.w200,
-      height: 2.50,
+      height: 3.33,
       letterSpacing: -0.02,
     );
 
   static const TextStyle typographyDisplayLgMedium = TextStyle(
       fontFamily: 'Bricolage Grotesque',
-      fontSize: 24,
+      fontSize: 18,
       fontWeight: FontWeight.w500,
-      height: 2.50,
+      height: 3.33,
       letterSpacing: -0.02,
     );
 
   static const TextStyle typographyDisplayLgSemibold = TextStyle(
       fontFamily: 'Bricolage Grotesque',
-      fontSize: 24,
+      fontSize: 18,
       fontWeight: FontWeight.w700,
-      height: 2.50,
+      height: 3.33,
       letterSpacing: -0.02,
     );
 
   static const TextStyle typographyDisplayLgBold = TextStyle(
       fontFamily: 'Bricolage Grotesque',
-      fontSize: 24,
+      fontSize: 18,
       fontWeight: FontWeight.w900,
-      height: 2.50,
+      height: 3.33,
       letterSpacing: -0.02,
     );
 
@@ -206,65 +206,65 @@ class Typography {
 
   static const TextStyle typographyTextXlRegular = TextStyle(
       fontFamily: 'Inter',
-      fontSize: 32,
+      fontSize: 20,
       fontWeight: FontWeight.w200,
-      height: 0.94,
+      height: 1.50,
       letterSpacing: 0.00,
     );
 
   static const TextStyle typographyTextXlMedium = TextStyle(
       fontFamily: 'Inter',
-      fontSize: 32,
+      fontSize: 20,
       fontWeight: FontWeight.w500,
-      height: 0.94,
+      height: 1.50,
       letterSpacing: 0.00,
     );
 
   static const TextStyle typographyTextXlSemibold = TextStyle(
       fontFamily: 'Inter',
-      fontSize: 32,
+      fontSize: 20,
       fontWeight: FontWeight.w700,
-      height: 0.94,
+      height: 1.50,
       letterSpacing: 0.00,
     );
 
   static const TextStyle typographyTextXlBold = TextStyle(
       fontFamily: 'Inter',
-      fontSize: 32,
+      fontSize: 20,
       fontWeight: FontWeight.w900,
-      height: 0.94,
+      height: 1.50,
       letterSpacing: 0.00,
     );
 
   static const TextStyle typographyTextLgRegular = TextStyle(
       fontFamily: 'Inter',
-      fontSize: 24,
+      fontSize: 18,
       fontWeight: FontWeight.w200,
-      height: 1.17,
+      height: 1.56,
       letterSpacing: 0.00,
     );
 
   static const TextStyle typographyTextLgMedium = TextStyle(
       fontFamily: 'Inter',
-      fontSize: 24,
+      fontSize: 18,
       fontWeight: FontWeight.w500,
-      height: 1.17,
+      height: 1.56,
       letterSpacing: 0.00,
     );
 
   static const TextStyle typographyTextLgSemibold = TextStyle(
       fontFamily: 'Inter',
-      fontSize: 24,
+      fontSize: 18,
       fontWeight: FontWeight.w700,
-      height: 1.17,
+      height: 1.56,
       letterSpacing: 0.00,
     );
 
   static const TextStyle typographyTextLgBold = TextStyle(
       fontFamily: 'Inter',
-      fontSize: 24,
+      fontSize: 18,
       fontWeight: FontWeight.w900,
-      height: 1.17,
+      height: 1.56,
       letterSpacing: 0.00,
     );
 
