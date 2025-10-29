@@ -2,10 +2,82 @@
 
 > Build design tokens dari JSON source ke Flutter, Jetpack Compose, CSS, Android XML, dan iOS Swift dengan Style Dictionary v5.1.1
 
+[![Build & Deploy](https://github.com/alfariesh/design-tokens/actions/workflows/build.yml/badge.svg)](https://github.com/alfariesh/design-tokens/actions/workflows/build.yml)
 [![Style Dictionary](https://img.shields.io/badge/Style%20Dictionary-v5.1.1-blueviolet)](https://github.com/amzn/style-dictionary)
 [![Flutter](https://img.shields.io/badge/Flutter-Ready-02569B?logo=flutter)](docs/flutter/)
 [![Jetpack Compose](https://img.shields.io/badge/Compose-Ready-4285F4?logo=jetpack-compose)](docs/compose/)
 [![CSS](https://img.shields.io/badge/CSS-Ready-1572B6?logo=css3)](docs/css/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-success)](https://alfariesh.github.io/design-tokens/)
+
+---
+
+## 📡 GitHub Pages - Live Tokens
+
+Design tokens tersedia secara publik via GitHub Pages:
+
+**Base URL:** `https://alfariesh.github.io/design-tokens/`
+
+### Download URLs
+
+#### Flutter (Dart)
+```bash
+https://alfariesh.github.io/design-tokens/flutter/colors.dart
+https://alfariesh.github.io/design-tokens/flutter/typography.dart
+https://alfariesh.github.io/design-tokens/flutter/dimensions.dart
+```
+
+#### Jetpack Compose (Kotlin)
+```bash
+https://alfariesh.github.io/design-tokens/compose/Colors.kt
+https://alfariesh.github.io/design-tokens/compose/Typography.kt
+https://alfariesh.github.io/design-tokens/compose/Dimensions.kt
+```
+
+#### CSS
+```bash
+https://alfariesh.github.io/design-tokens/css/colors.css
+https://alfariesh.github.io/design-tokens/css/typography.css
+https://alfariesh.github.io/design-tokens/css/dimensions.css
+```
+
+#### Android XML
+```bash
+https://alfariesh.github.io/design-tokens/android/colors-light.xml
+https://alfariesh.github.io/design-tokens/android/colors-dark.xml
+https://alfariesh.github.io/design-tokens/android/typography.xml
+https://alfariesh.github.io/design-tokens/android/dimens.xml
+```
+
+#### iOS Swift
+```bash
+https://alfariesh.github.io/design-tokens/ios/Colors.swift
+https://alfariesh.github.io/design-tokens/ios/Typography.swift
+https://alfariesh.github.io/design-tokens/ios/Dimensions.swift
+```
+
+### Usage in CI/CD
+
+Download tokens langsung di CI/CD pipeline:
+
+```bash
+# Flutter
+curl -o lib/tokens/colors.dart https://alfariesh.github.io/design-tokens/flutter/colors.dart
+
+# Android
+curl -o app/src/main/res/values/colors.xml https://alfariesh.github.io/design-tokens/android/colors-light.xml
+
+# CSS
+curl -o src/styles/tokens.css https://alfariesh.github.io/design-tokens/css/colors.css
+```
+
+### Import Langsung (CSS)
+
+```html
+<!-- Import CSS tokens langsung dari GitHub Pages -->
+<link rel="stylesheet" href="https://alfariesh.github.io/design-tokens/css/colors.css">
+<link rel="stylesheet" href="https://alfariesh.github.io/design-tokens/css/typography.css">
+<link rel="stylesheet" href="https://alfariesh.github.io/design-tokens/css/dimensions.css">
+```
 
 ---
 
